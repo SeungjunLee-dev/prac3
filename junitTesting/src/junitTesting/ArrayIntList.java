@@ -2,7 +2,7 @@ package junitTesting;
 
 import java.util.ArrayList;
 import java.util.List;
-
+// test
 public class ArrayIntList {
 	List<Integer> list = null;
 	
